@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  8 2021
 
-@author: alexandre.bouchard1
+@author: alexandre.bouchard
 """
 import requests
 import pandas as pd
